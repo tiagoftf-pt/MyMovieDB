@@ -1,5 +1,3 @@
-import { Button } from "./Button";
-
 /**Sections */
 export { Footer } from "./Footer";
 export { Header } from "./Header";

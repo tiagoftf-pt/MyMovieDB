@@ -1,4 +1,4 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import BackupImage from "../assets/images/backup.png"
 
@@ -22,7 +22,7 @@ export const MovieDetail = ({ apiPath }) => {
     }
 
     fetchMovie();
-  }, []);
+  }, [url]);
 
   useEffect(()=>{
 
