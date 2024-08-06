@@ -7,23 +7,23 @@ This project is part of a series of key projects that I am developing as part of
 
 🔹 Technologies Used:
 
-React: For a dynamic and responsive user interface.
-React Router: For handling routing.
-Tailwind CSS: For a modern and stylish design.
-Integrating with external APIs for dynamic data.
+<p>React: For a dynamic and responsive user interface.</p>
+<p>React Router: For handling routing.</p>
+<p>Tailwind CSS: For a modern and stylish design.</p>
+<p>Integrating with external APIs for dynamic data.</p>
 
 🔹 Key Features:
 
-Integrating with external APIs for dynamic data.
-Custom hooks.
-Dark Mode integration.
-Responsive Design: Accessible on any device, whether desktop or mobile.
-Deploy your projects on Netlify using Git & Github.
+<p>Integrating with external APIs for dynamic data.</p>
+<p>Custom hooks.</p>
+<p>Dark Mode integration.</p>
+<p>Responsive Design: Accessible on any device, whether desktop or mobile.</p>
+<p>Deploy your projects on Netlify using Git & Github.</p>
 
 🔹 Next Steps:
 
-Adding new features based on user feedback.
-Continuing to optimize performance and security.
+<p>Adding new features based on user feedback.</p>
+<p>Continuing to optimize performance and security.</p>
 
 I’m very proud of what has been achieved so far and excited to keep improving this webapp. 
 Thanks to everyone who supported me on this project, and I’m open to feedback and suggestions!
