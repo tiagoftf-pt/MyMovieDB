@@ -3,17 +3,22 @@
 
 I’m excited to share my latest project: a webapp developed entirely in React! 🎉
 
+This project is part of a series of key projects that I am developing as part of a REACT learning course.
+
 🔹 Technologies Used:
 
 React: For a dynamic and responsive user interface.
+React Router: For handling routing.
 Tailwind CSS: For a modern and stylish design.
 Integrating with external APIs for dynamic data.
 
 🔹 Key Features:
 
 Integrating with external APIs for dynamic data.
+Custom hooks.
 Dark Mode integration.
 Responsive Design: Accessible on any device, whether desktop or mobile.
+Deploy your projects on Netlify using Git & Github.
 
 🔹 Next Steps:
 
