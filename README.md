@@ -10,7 +10,6 @@ This project is part of a series of key projects that I am developing as part of
 <p>React: For a dynamic and responsive user interface.</p>
 <p>React Router: For handling routing.</p>
 <p>Tailwind CSS: For a modern and stylish design.</p>
-<p>Integrating with external APIs for dynamic data.</p>
 
 🔹 Key Features:
 
@@ -18,7 +17,7 @@ This project is part of a series of key projects that I am developing as part of
 <p>Custom hooks.</p>
 <p>Dark Mode integration.</p>
 <p>Responsive Design: Accessible on any device, whether desktop or mobile.</p>
-<p>Deploy your projects on Netlify using Git & Github.</p>
+<p>Deploy on Netlify using Git & Github.</p>
 
 🔹 Next Steps:
 
@@ -28,7 +27,7 @@ This project is part of a series of key projects that I am developing as part of
 I’m very proud of what has been achieved so far and excited to keep improving this webapp. 
 Thanks to everyone who supported me on this project, and I’m open to feedback and suggestions!
 
-🔗 https://mymoviedb-myapp.netlify.app/
+🔗 <a href="https://mymoviedb-myapp.netlify.app/">https://mymoviedb-myapp.netlify.app/</a>
 
 #React #WebDevelopment #JavaScript #Tech #Innovation #Coding
 
