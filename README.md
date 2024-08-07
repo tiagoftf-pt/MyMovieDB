@@ -32,3 +32,6 @@ Thanks to everyone who supported me on this project, and I’m open to feedback 
 #React #WebDevelopment #JavaScript #Tech #Innovation #Coding
 
 ![image](https://github.com/user-attachments/assets/e7255f74-280a-475f-b78e-abc5e8b961f9)
+
+![image](https://github.com/user-attachments/assets/4c96e098-1e8d-4956-a6e6-1efc55202ef4)
+
